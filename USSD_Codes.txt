@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-04-12T18:21:15+08:00
+
+====== USSD Codes ======
+Created Thursday 12 April 2018
+
+
+===== How to Check Prepaid Balance: =====
+
+To check your prepaid balance:
+
+1. dial *123#.
+2. Press 1 (Check Balances)
+3. Press 3 (Data Plan)
+
+Result: Data Bal: **XXMB** expiring **yyyy-MM-dd hh:mm** hrs. 
+
+
+To use USSD Codes with Huawei Modem in order to retreive remaining data from RPI:
+
+==== Sources: ====
+
+https://github.com/mhogomchungu/ussd-gui
+
+https://www.codeproject.com/Questions/1073472/making-a-program-that-execute-ussd
